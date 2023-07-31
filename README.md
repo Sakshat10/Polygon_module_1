@@ -54,7 +54,7 @@ Feel free to customize and modify the scripts as needed for your specific use ca
 
 ## Authors
 
-- [Umar Khan](https://github.com/UmarKhan19)
+- [Sakshat Kumar](https://github.com/Sakshat10)
 
 ## License
 
